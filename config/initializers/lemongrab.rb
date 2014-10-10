@@ -1,0 +1,1 @@
+Lemongrab.dungeon = ActiveRecordDungeon
